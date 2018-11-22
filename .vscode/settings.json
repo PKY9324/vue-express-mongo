@@ -1,0 +1,20 @@
+{
+    "editor.tabSize": 4,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "editor.formatOnSave": true,
+    "node-module-intellisense.autoStripExtensions": [
+        ".js",
+        ".jsx",
+        ".ts",
+        ".d.ts",
+        ".tsx"
+    ],
+    "node-module-intellisense.modulePaths": [],
+    "node-module-intellisense.scanBuiltinModules": true,
+    "node-module-intellisense.scanFileModules": true,
+    "prettier.singleQuote": true,
+    "javascript.preferences.quoteStyle": "single",
+    "typescript.preferences.quoteStyle": "single",
+    "prettier.jsxSingleQuote": true,
+}
